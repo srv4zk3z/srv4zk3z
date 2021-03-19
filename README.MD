@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sr_vazkez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sr_vazkez" height="30" width="40" /></a>
+<a href="https://twitter.com/sr_vazkez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sr_vazkez" height="30" width="40" style="color: grey" /></a>
 <a href="https://fb.com/paul vazquez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="paul vazquez" height="30" width="40" /></a>
 </p>
 
