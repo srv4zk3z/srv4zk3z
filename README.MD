@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python and FastApi**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Flask and Django**
 
 - 📫 How to reach me **paulvazk@protonmail.com**
 
