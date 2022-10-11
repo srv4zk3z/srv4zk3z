@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sr_vazkez" target="blank"><img src="https://img.shields.io/twitter/follow/sr_vazkez?logo=twitter&style=for-the-badge" alt="sr_vazkez" /></a> </p>
 
-- 🌱 I’m currently learning **Python and FastApi**
+- 🌱 I’m currently learning **Python, FastApi and PHP**
 
 - 💬 Ask me about **Python, Flask, FastAPI, Jenkins, Docker and Django**
 
